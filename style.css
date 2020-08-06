@@ -1,0 +1,20 @@
+body {
+    background-color: gold;
+    color: #000066;
+    
+    border-width:10px;
+    border-color:#000066;
+    border-style:double;
+}
+
+h1 {
+
+}
+
+img {
+    
+    border-width:10px;
+    border-color:white;
+    border-style:solid;
+}
+
